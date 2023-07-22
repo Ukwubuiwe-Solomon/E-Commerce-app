@@ -1,0 +1,8 @@
+
+
+@media screen  and (max-width:450px){
+    .footer_section{
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 20px;
+    }
+}
